@@ -6,6 +6,9 @@ Overview
 
 The workbook starts with three raw tables (Orders, Customers, Products), joins them into a single enriched dataset using lookup formulas, then layers on business logic (value tiers, delivery flags, pending-order flags) before rolling everything up into category, customer, and time-based summaries.
 
+## Dashboard Preview
+![Dashboard](images/dashboard.png)
+
 Sheets
 Sheet	Purpose
 Orders	Raw transaction data — 3,500 orders (Order_ID, Customer_ID, Product_ID, quantity, dates, status, payment mode, order value)
