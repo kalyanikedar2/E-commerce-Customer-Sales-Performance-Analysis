@@ -7,7 +7,7 @@ Overview
 The workbook starts with three raw tables (Orders, Customers, Products), joins them into a single enriched dataset using lookup formulas, then layers on business logic (value tiers, delivery flags, pending-order flags) before rolling everything up into category, customer, and time-based summaries.
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+https://github.com/kalyanikedar2/E-commerce-Customer-Sales-Performance-Analysis/blob/main/Screenshot%202026-09-10%20155452.png
 
 Sheets
 Sheet	Purpose
